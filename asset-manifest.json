@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fun-with-forms/static/css/main.2b9dbecd.chunk.css",
+    "main.js": "/fun-with-forms/static/js/main.37e7144c.chunk.js",
+    "main.js.map": "/fun-with-forms/static/js/main.37e7144c.chunk.js.map",
+    "runtime-main.js": "/fun-with-forms/static/js/runtime-main.02d293ec.js",
+    "runtime-main.js.map": "/fun-with-forms/static/js/runtime-main.02d293ec.js.map",
+    "static/js/2.79a59598.chunk.js": "/fun-with-forms/static/js/2.79a59598.chunk.js",
+    "static/js/2.79a59598.chunk.js.map": "/fun-with-forms/static/js/2.79a59598.chunk.js.map",
+    "index.html": "/fun-with-forms/index.html",
+    "precache-manifest.1261b1c4b9b62b3b2977e6a940cfda1b.js": "/fun-with-forms/precache-manifest.1261b1c4b9b62b3b2977e6a940cfda1b.js",
+    "service-worker.js": "/fun-with-forms/service-worker.js",
+    "static/css/main.2b9dbecd.chunk.css.map": "/fun-with-forms/static/css/main.2b9dbecd.chunk.css.map",
+    "static/js/2.79a59598.chunk.js.LICENSE.txt": "/fun-with-forms/static/js/2.79a59598.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02d293ec.js",
+    "static/js/2.79a59598.chunk.js",
+    "static/css/main.2b9dbecd.chunk.css",
+    "static/js/main.37e7144c.chunk.js"
+  ]
+}
